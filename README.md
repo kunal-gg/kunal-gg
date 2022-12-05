@@ -1,20 +1,11 @@
 ### Hi there, Kunal here👋
+### I am a sophomore studying at the Indian Institute of Technology Jodhpur.
+### About Me:
+- Currently exporing flutter and cross-platform development.
+- Looking for opportunities to work on some cool open source projects.
+- Have worked on quite a few web frontend and backend projects.
+- How to reach me: <a href="mailto:tiwari.25@iitj.ac.in">tiwri.25@iitj.ac.in</a>
 
-### I am a sophomore studying at the Indian Institute of Technology Jodhpur, exploring the world of development
 
-
-
-<!--
-**kunal-iitj/kunal-iitj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Profile Views and Followers
+![](https://komarev.com/ghpvc/?username=kunal-iitj&color=blue) 
