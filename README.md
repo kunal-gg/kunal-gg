@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there, Kunal here👋
+
+### I am a sophomore studying at the Indian Institute of Technology Jodhpur, exploring the world of development
+
+
 
 <!--
 **kunal-iitj/kunal-iitj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
