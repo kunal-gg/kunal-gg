@@ -14,10 +14,11 @@
 
 <p align="center">
   <img alt="GitHub Statistics" src="https://github-readme-stats.vercel.app/api?username=kunal-gg&count_private=true&show_icons=true&theme=dracula">
+  <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=kunal-gg&theme=dracula">
 </p>
 
 <p align="center">
-  <img alt="GitHub Streak" src="http://github-readme-streak-stats.herokuapp.com?user=kunal-gg&theme=dracula">
+  
 </p>
 
 <p align="center">
