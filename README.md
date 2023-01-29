@@ -7,9 +7,6 @@
 - How to reach me: <a href="mailto:tiwari.25@iitj.ac.in">tiwri.25@iitj.ac.in</a>
 
 
-## Profile Views and Followers
-![](https://komarev.com/ghpvc/?username=kunal-gg&color=blue) 
-
 
 <p align="center">
   <img alt="Profile Views" src="https://komarev.com/ghpvc/?username=kunal-gg&style=plastic&color=blueviolet"/>
