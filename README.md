@@ -1,7 +1,6 @@
-### Hi there, Kunal here👋
-### I am a Junior studying at the Indian Institute of Technology Jodhpur.
-### About Me:
-- Currently exploring golang, rust and low level systems.
-- Ocassaionally flirt around with solana and web3.
-- Previously worked with frontend and backend systems across all platforms
+### Hi there
+- Senior @iitjodhpur.
+- GSoC'24 @ScummVM.
+- Currently Exploring graphics programming.
+- Going beneath each layer of abstraction one at a time. 
 - How to reach me: <a href="mailto:tiwari.25@iitj.ac.in">tiwari.25@iitj.ac.in</a>
