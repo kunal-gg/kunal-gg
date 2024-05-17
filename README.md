@@ -1,4 +1,4 @@
-### Hi there
+### Hi there 👋
 - Senior @iitjodhpur.
 - GSoC'24 @ScummVM.
 - Currently exploring graphics programming.
